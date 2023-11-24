@@ -2,7 +2,7 @@
 Cinthia Elaine Matsuda
 Laryssa Gomes da Silva
 
-<b>Plataforma ESG</b>
+<b>Plataforma ESG</b><br>
 <b>Fase 1</b>
 Criamos a empresa Care+ (se pronuncia Care Plus), que tem como objetivo, ajudar pessoas a encontrarem profissionais da enfermagem e cuidadores. Indicado para qualquer adulto ou idoso que possui alguma necessidade especial, para períodos mais prolongados ou até mesmo por algumas horas. O aplicativo conecta pessoas aos profissionais, para cuidados ainda no hospital e também na residência.
 
